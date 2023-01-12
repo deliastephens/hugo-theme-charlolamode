@@ -31,7 +31,7 @@ params:
 
 
     defaultTheme: auto
-    # disableThemeToggle: true
+    disableThemeToggle: true
     ShowShareButtons: true
     ShowReadingTime: true
     displayFullLangName: true
@@ -42,14 +42,14 @@ params:
     profileMode:
         # Disable to populate home page with 'mainSections' content
         enabled: true
-        title: Joe Doe
+        title: John Doe
         description: |
 
           Hello, I am Joe.
            I am a software developer. 
         
 
-          This is a minimalistic theme template for websites.
+          This is a minimalistic theme template for websites [www.google.com](google).
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
